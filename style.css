@@ -7,10 +7,13 @@ h1{
 }
 h2{
     line-height: 2%;
+    
 }
 h3{
+    line-height: 2;
     color: crimson;
     font-size: 25px;
+    text-align: center;
 }
 
 p{
@@ -21,7 +24,7 @@ p{
 
 div{
     font-family: 'Courier New', Courier, monospace;
-    margin: 10 px;
+    margin: 90 px;
     padding: 60px;
 }
 a{
@@ -32,6 +35,15 @@ img {
   width: 1400px;
   height: 200px;
   object-fit: cover;
+  border-top: 2px black solid;
+  border-left: 2px black solid;
+  border-right: 2px black solid;
+  border-bottom: 2px black solid;
 }
-
+section{
+    text-align: center;
+}
+#steps{
+    text-align: center;
+}
 
