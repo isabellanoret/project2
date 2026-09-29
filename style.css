@@ -1,0 +1,37 @@
+body{
+    background-color: papayawhip;
+}
+h1{
+    font-size: 32px;
+    color: crimson;
+}
+h2{
+    line-height: 2%;
+}
+h3{
+    color: crimson;
+    font-size: 25px;
+}
+
+p{
+    
+    text-align: justify;
+    line-height: 30px
+}
+
+div{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10 px;
+    padding: 60px;
+}
+a{
+    color: brown;
+    line-height: 5;
+}
+img {
+  width: 1400px;
+  height: 200px;
+  object-fit: cover;
+}
+
+
